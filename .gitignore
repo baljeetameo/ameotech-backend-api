@@ -1,0 +1,119 @@
+# ========================
+# Python / FastAPI Backend
+# ========================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Logs
+*.log
+logs/
+backend.log
+app.log
+debug.log
+
+# SQLite (if used)
+*.sqlite3
+*.db
+
+# Unit test / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+pytest_cache/
+coverage.xml
+
+# mypy
+.mypy_cache/
+
+# Pydantic
+.pydantic/
+
+# Local runtime artifacts
+.DS_Store
+Thumbs.db
+
+# =======================
+# FastAPI Specific
+# =======================
+# Uvicorn reload artifacts
+*.pid
+
+# Reasoning engine session memory & temp files
+backend/app/reasoning/tmp/
+backend/app/reasoning/sessions/
+*.session.json
+
+# Generated files
+backend/app/reasoning/registry/generated/
+backend/app/reasoning/cache/
+backend/app/reasoning/_autogen/
+
+# =======================
+# Node / Frontend
+# =======================
+node_modules/
+npm-debug.log
+yarn-error.log
+.pnp/
+.pnp.js
+
+# Next.js / Vite / React builds
+.next/
+out/
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# =======================
+# Mac / System
+# =======================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# =======================
+# Misc
+# =======================
+*.swp
+*.swo
+*.bak
+*.tmp
