@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bookadiscoverysprint",
+  "private_key_id": "d51f5788c9d41baf70d45a5da4e370d860dc1995",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC12nnZ3nj7JqwJ\nKgyAv+/DbS65XP4VQPowul736Pp46f0Z/1yEUbDZKwpZYZddaMJY4eAd3xxcrsQD\nMeRVipNUenEnaDUCF5KtlkXrXb28GbZLsFq0/FMfGTKMRV41OUKXRsbn9XMkWvnG\nH7qhpOC1SKquvlvXdomIvgDnOAn9SsC+sZm2PFTpAceOQoDU2PbchYOZrfABqfOa\nqNoCu7JseBmqvvSWDT+Uvf/mqJaGgzSiYOTDOxx8gDpz97xvTAdzOB1MCDRh6Vj1\nL3r88K7w5HrX5gPE52hisZNEBwqa7K1teNKdoN91sByj1U1H7mW2kSlJow064IzR\nxYi8W6gjAgMBAAECggEABobfB7bzOvm3g/laizEYWbhsobeDi7S80Lc9Ba3QIOXZ\nBoVX8eHStJYAYEE0mGQpptyt2V9IGnrP9di6Zr2Qrcqv4/0FULFoO3W2Gw1OwYEK\nE2uyyGXOqpeSF7RnqLEI7FAHKeJxLaqxkJmpQ6LyHl+Ld2Eaqmrf4ySv+JyAyJ1G\nOXZHBI1tA+/py4KT2G7UOftalDnZxNJ5hv7FgO55ncBCBhhlnDtW7/9JsmQ/Uj/n\nMhtz74XgHUfeJzdqpIU+odCjDYSTErbihY/oIzu+VTleulaik3tHCEY6vrnNfz7s\nsPsXZd+lR0IlbIB9Jpgr/aKvfoTNa8YfV7iH8QQHqQKBgQDhKk1Rhcnn9itAAtwr\npOSlBJUL21lCVVnfgHrTNBYZ/4sED8XoZXsWo61ZomNdI8TtTxNY1YCcZwU3bxq0\nI1S183GvoYfKtXoWZB/Qiil/eFlomWdBj9VZsPUW7oHuoBSJ7w0v4gIOxvT9ZmUk\nmy+PD0vFwaDf4QLlgCTr5gfRWwKBgQDOwcar+VPoa2rwKYivqj+r0SDbVnRi8EEX\n/ML38nlrxzgYxw9az0JPeBsTm+hPQxV67juQ3XpmM0Rmy0y/5Di2SvE7v3mVHz4q\n4ep1YCl0+/VkFYiLhdMTg4HI56nDQVeXnSLD4JC9nEX6Cc4V8ipue3IInO1XdlJZ\nZC30X1Y22QKBgQCBgG/5zEYFCJt1dG+nFm5+znTe3eincyl+l4mNAa8YgtY0ntHH\nyN4Tdk4UeIZHonP3vPw2oo0W51WjvV4RbySghYTEa9YK63dte2ak7WHSs6hQtbIi\njhQ6QsGjz8ehNCa78maWPJnMX/e16nePp0WiNTzyX1wkh2jAEISrvKCQcwKBgD0E\naOpl2YJ0+QlJaKJW/xVo0WaJvC1atAstOCjOcVECaSa+0GQ/WFV1n6AI2eVSaetu\nlTuqcS3qIVyo0MyswKPjuA+m8W2127XyGCxtpa51kTTpOfPbGbDflZTB8ZLDHOOM\npy7hfjXHAcvJyv0lC6qxWbT7AvxV2fWxn/JHlHz5AoGAQQzx03WaurRBmfnYziTC\nLmUvck76X+NX+erMf2aLS6P2/YIwSTZ2BD8xpurLJOl/hvry/PZosXDyAgYrpnUB\nGdAAYb/1+dyoZcdHbAbFGEDzRMwzWsqCwT1S1Mjb/0EegT5Aqo6Ih4K4uZWy7AFB\nuoREvhD+yKKIsVb0mdDJa5I=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bookadiscoveysprintservice@bookadiscoverysprint.iam.gserviceaccount.com",
+  "client_id": "103222655523999517862",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bookadiscoveysprintservice%40bookadiscoverysprint.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
